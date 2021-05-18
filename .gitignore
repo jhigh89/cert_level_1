@@ -143,5 +143,5 @@ temp/
 .DS_Store
 *.pyc
 *.zip
-.xlsx
+*.xlsx
 devdata/
